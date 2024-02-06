@@ -1,0 +1,16 @@
+body {
+    font-family: 'Caudex', serif;
+    background-color: #EEEDEB;
+}
+table{
+    margin-top: -20px;
+    margin-bottom: 12px;
+}
+input{
+    background-color: #EEEDEB;
+    border: 2px outset #B4B4BB;
+}
+textarea{
+    background-color: #EEEDEB;
+    border: 2px outset #B4B4BB;
+}
